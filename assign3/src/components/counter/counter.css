@@ -1,0 +1,14 @@
+.counter-wrapper {
+  text-align: center;
+  justify-content: center;
+  padding-top: 15%;
+}
+
+.btn {
+  display: flexbox;
+  justify-content: space-between;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 5%;
+}
